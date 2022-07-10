@@ -1,0 +1,17 @@
+.form1, .list {
+    background-color: #808080;
+    padding-left: 25px !important;
+    border-radius: 5px;
+}
+
+h2.task {
+    color: #f67d28;
+}
+
+p.description {
+    color: white;
+}
+
+form .btnheight {
+    height: calc(3.5rem + 2px);
+}
